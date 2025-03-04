@@ -8,7 +8,7 @@
 -->
 
 # Introduction to GitHub
-
+Hello, I am Dami and learning is a lifestyle for me
 _Get started using GitHub in less than an hour._
 
 </header>
